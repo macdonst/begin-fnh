@@ -1,2 +1,0 @@
-# begin-fnh
-Begin app
